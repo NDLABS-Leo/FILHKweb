@@ -4,11 +4,12 @@ created-on: 2024-02-17T01:00:58.493Z
 updated-on: 2024-02-17T01:00:58.493Z
 published-on: 2024-02-17T01:10:26.107Z
 f_date: April 5-8, 2024
-f_main-text: FIL Hong Kong Network Base
-f_subheader: "Programming Content: Filecoin, SP, DePin and more"
+f_main-text: check out the schedule!
+f_subheader: Register to attend the <b>Filecoin Network Base</b> for two days of
+  exciting talks focused on Web3 trends, decentralized storage, DePin and more
 layout: "[filhk-header-info].html"
 slug: fil-hong-kong
-f_location: The Garage Society Wan Chai Lockhart, 4/F
+f_location: Hong Kong
 tags: filhk-header-info
 date: 2024-02-27T07:56:18.204Z
 ---
