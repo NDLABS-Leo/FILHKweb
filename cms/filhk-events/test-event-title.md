@@ -16,4 +16,8 @@ tags: filhk-events
 layout: "[filhk-events].html"
 slug: test-event-title
 date: 2024-02-27T08:52:27.908Z
+seo:
+  og:image: ""
+  noindex: false
+  additional_tags: https://lu.ma/FILHK2024
 ---
