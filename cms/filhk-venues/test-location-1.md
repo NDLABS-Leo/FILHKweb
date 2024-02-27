@@ -9,7 +9,7 @@ f_address: The Garage Society Wan Chai Lockhart, 4/F, Beverly House, 93 - 107
   Lockhart Road, Hong Kong
 f_address-2: "MTR: Sheung Wan Exit A2"
 f_map:
-  url: /assets/external/65d51678946965da2b1f3cb2_map.png
+  url: /assets/images/地址.jpg
   alt: null
 layout: "[filhk-venues].html"
 slug: test-location-1
