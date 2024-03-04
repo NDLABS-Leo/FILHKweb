@@ -10,7 +10,7 @@ updated-on: 2024-02-17T00:19:19.830Z
 f_organization: Coming soon
 f_title: ""
 f_headshot:
-  url: /assets/images/speaker01.jpg
+  url: /assets/images/speaker.jpg
   alt: null
 f_bio: Test Bio
 f_vvvip-1st-position: true
