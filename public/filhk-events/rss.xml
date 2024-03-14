@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>FILHK Schedule Section </title>
+    <description>FILHK Schedule Section  Feed</description>
+    <link></link>
+    <pubDate>Tue, 27 Feb 2024 08:52:27 GMT</pubDate>
+    <atom:link href="/filhk-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>FIL Hong Kong Network Base</title>
+            
+            <link>/filhk-events/test-event-title/</link>
+            <pubDate>Tue, 27 Feb 2024 08:52:27 GMT</pubDate>
+            <guid>/filhk-events/test-event-title/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+  </channel>
+</rss>

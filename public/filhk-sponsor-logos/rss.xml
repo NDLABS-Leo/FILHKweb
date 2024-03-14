@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>FILHK Sponsor Logos </title>
+    <description>FILHK Sponsor Logos  Feed</description>
+    <link></link>
+    <pubDate>Mon, 04 Mar 2024 06:24:13 GMT</pubDate>
+    <atom:link href="/filhk-sponsor-logos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Sponsor 2</title>
+            
+            <link>/filhk-sponsor-logos/sponsor-2/</link>
+            <pubDate>Mon, 04 Mar 2024 07:14:57 GMT</pubDate>
+            <guid>/filhk-sponsor-logos/sponsor-2/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>Sponsor 1</title>
+            
+            <link>/filhk-sponsor-logos/sponsor-1/</link>
+            <pubDate>Mon, 04 Mar 2024 07:14:04 GMT</pubDate>
+            <guid>/filhk-sponsor-logos/sponsor-1/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+        <item>
+            <title>sponsor 3</title>
+            
+            <link>/filhk-sponsor-logos/sponsor-3/</link>
+            <pubDate>Mon, 04 Mar 2024 06:24:13 GMT</pubDate>
+            <guid>/filhk-sponsor-logos/sponsor-3/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+  </channel>
+</rss>

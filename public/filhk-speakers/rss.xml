@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>FILHK Speakers </title>
+    <description>FILHK Speakers  Feed</description>
+    <link></link>
+    <pubDate>Mon, 04 Mar 2024 05:00:33 GMT</pubDate>
+    <atom:link href="/filhk-speakers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Speaker info</title>
+            
+            <link>/filhk-speakers/test-name/</link>
+            <pubDate>Mon, 04 Mar 2024 05:00:33 GMT</pubDate>
+            <guid>/filhk-speakers/test-name/</guid>
+            
+            <content type="html"></content>
+            
+        </item>
+  </channel>
+</rss>
