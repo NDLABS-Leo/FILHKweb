@@ -171,25 +171,19 @@
   </div>
   <div class="logo-title">
     <div class="content-5">
-      {%- assign collection = collections.filhk-sponsor-logos | sort: "-created-on" -%}<div
+      <div class="logo-top w-col-4">
+          <img src="/assets/images/header-logo-sinso.png" loading="lazy" width="300"
+            height="80" alt=""
+            data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" class="_1">
+      </div>
+      {%- assign collection = collections.filhk-sponsor-logos -%}<div
         class="collection-list-wrapper-2 w-dyn-list">
-        {%- unless collection.length == 0 -%}<div role="list" class="collection-list-2 w-dyn-items w-row">
-          {%- for item in collection -%}
-            {% if item.data.title == "Sponsor 2" %}<div role="listitem" class="collection-item w-dyn-item w-col w-col-4">
-              <div class="logo-wrapper-2">
-                <img src="{{ item.data.f_sponsor-logo.url }}" loading="lazy" width="300"
-                  height="80" alt=""
-                  data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;300px&quot;}]" class="_1">
-              </div>
-            </div>
-            {% else %}<div role="listitem" class="collection-item w-dyn-item w-col w-col-3">
-              <div class="logo-wrapper-2">
-                <img src="{{ item.data.f_sponsor-logo.url }}" loading="lazy" width="135.67840576171875"
-                  height="45.000003814697266" alt=""
-                  data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;135.67709350585938px&quot;}]" class="_1">
-              </div>
-            </div>
-            {% endif %}
+        {%- unless collection.length == 0 -%}<div role="list" class="collection-list-2 w-dyn-items">
+          {%- for item in collection -%}<div role="listitem" class="collection-item">
+            <img src="{{ item.data.f_sponsor-logo.url }}" loading="lazy" width="135.67840576171875"
+              height="45.000003814697266" alt=""
+              data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;135.67709350585938px&quot;}]" class="_1">
+          </div>
           {%- endfor -%}
         </div>{%- endunless -%}
         {%- if collection.length == 0 -%}<div class="w-dyn-empty">
