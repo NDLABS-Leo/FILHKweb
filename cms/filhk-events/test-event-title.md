@@ -9,7 +9,8 @@ f_header: FIL Hong Kong Events
 f_subheader: EXPLORE
 f_blurb0: Come kick off FIL Hong Kong with us at our opening reception! There will be light appetizers and refreshments.
 f_blurb: We’ve got the perfect home base in HK at The Garage Center. Stop by for daily talks, workshops and coworking with fellow ecosystem contributors.
-f_blurb2: Join us for FIL Hong Kong at Web3 Festival Stage 3 on April 8 from 9am to Noon for storage provider-focused lightning talks. If you’re a Filecoin storage provider or want to explore decentralized storage for your business,  Explore exciting talks focused on Web3 trends, decentralized storage, DePIN, and more.
+f_blurb2: "Join us at stage 3 for FlL Hong Kong at Web3 Festival onApril 8 from 9 a.m. to noon. Stop by for daily talks, workshops, and coworkingwith fellow ecosystem contributors.
+If you're a Filecoin storage provider or want to explore decentralized storagefor your business, discover excellent talks focused on Web3 trends.decentralized storage, DePlN, and more."
 f_date0: 5PM - 7PM
 f_date: 9AM - 7PM
 f_date2: 9AM - NOON
