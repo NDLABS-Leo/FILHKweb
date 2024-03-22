@@ -1,5 +1,5 @@
 ---
-title: Daisy Fan
+title: Brian Lau
 created-on: 2024-02-22T00:25:19.830Z
 published-on: 2024-02-17T01:10:26.107Z
 f_tag-1: Test Tag 1
@@ -7,7 +7,7 @@ f_tag-2: Test Tag 2
 layout: "[filhk-speakers].html"
 slug: speaker-7
 updated-on: 2024-02-17T00:19:19.830Z
-f_organization: Filfi Dao
+f_organization: SINSO
 f_title: ""
 f_headshot:
   url: /assets/images/speaker-7.png
